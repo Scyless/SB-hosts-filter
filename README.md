@@ -4,7 +4,7 @@ This script combines my own hosts file with StevenBlack's huge *fakenews+gamblin
 
 Removes the default localhost config and adds my own config.
 
-Removes Reddit and Twitter from it, that was it's accessible.
+Removes Reddit and Twitter from it, that way it's accessible.
 
 Automatically applies the new  hosts file.
 
